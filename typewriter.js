@@ -9,6 +9,6 @@ function typewriter(sentence) {//This line takes a parameter
   }
 }
 
-
 // Start printing the characters of the sentence
 typewriter("Kurumi Tokisaki is the love of my life!");
+typewriter("I like Nino Nakano and I don't care")
